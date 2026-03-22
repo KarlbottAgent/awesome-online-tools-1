@@ -36,6 +36,7 @@
 ## Developer Tools
 
 - [RunDev](https://run-dev.com) - 55+ dev tools: JSON formatter, regex tester, Base64 encoder, code minifier.
+- [UtilShed](https://utilshed.com) - 100+ free developer tools: JSON formatter, Base64 encoder, UUID generator, regex tester, hash generator, JWT decoder, and more. Open source.
 - [DevDocs](https://devdocs.io) - API documentation browser.
 - [JSON Editor Online](https://jsoneditoronline.org) - Edit and format JSON.
 
